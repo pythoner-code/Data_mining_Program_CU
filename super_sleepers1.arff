@@ -1,0 +1,12 @@
+@relation R_data_frame
+
+@attribute rating numeric
+@attribute animal string
+@attribute country string
+@attribute avg_sleep_hours numeric
+
+@data
+1,koala,Australia,21
+2,hedgehog,Italy,18
+3,sloth,Peru,17
+4,panda,China,10

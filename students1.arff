@@ -1,0 +1,13 @@
+@relation R_data_frame
+
+@attribute Name string
+@attribute Uid numeric
+@attribute Subject string
+@attribute Marks numeric
+
+@data
+Himanshu,7944,'Data Mining',100
+Diwakar,8209,Maths,90
+Yash,7923,Science,85
+karan,7609,DSA,89
+Deba,7965,Java,95
